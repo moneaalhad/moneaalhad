@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @moneaalhad!
 - 👀 I’m interested in UNIX, Python3, C and operating system basics.
-- 🌱 I’m currently learning Python 3 from Learn Python3: The Hard Way
 - 💞️ I’m not looking to collaborate, this is mainly a place to store my code
 - 📫 You can reach me at moneaalhad@gmail.com
 
